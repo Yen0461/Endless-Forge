@@ -1,1 +1,23 @@
-
+{
+  "format_version": 2,
+  "header": {
+    "name": "Crystal Armor RP",
+    "description": "Resource pack for custom crystal armor textures",
+    "uuid": "c4d1f2e3-8b7a-4c2f-9d11-3a2c4b5d6e33",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f1a2b3c4-d5e6-4f7a-8b9c-1d2e3f4a5b44",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "b8c3c1c1-5c4a-4e3e-9b8d-1f2a9c1a0e11",
+      "version": [1, 0, 0]
+    }
+  ]
+}

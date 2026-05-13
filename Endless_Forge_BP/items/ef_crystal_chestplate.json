@@ -7,7 +7,7 @@
       "minecraft:armor": {
         "protection": 8,
         "slot": "chest",
-        "texture_type": "diamond"
+        "texture_type": "crystal"
       },
       "minecraft:durability": { "max_durability": 850 },
       "minecraft:render_offsets": "armor"

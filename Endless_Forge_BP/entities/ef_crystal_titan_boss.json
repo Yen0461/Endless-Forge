@@ -1,1 +1,19 @@
-
+{
+  "format_version": "1.21.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "ef:crystal_titan_boss",
+      "is_spawnable": false,
+      "is_summonable": true
+    },
+    "components": {
+      "minecraft:health": { "value": 600, "max": 600 },
+      "minecraft:movement": { "value": 0.18 },
+      "minecraft:attack": { "damage": 20 },
+      "minecraft:knockback_resistance": { "value": 1.0 },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/ef_crystal_titan_boss.json"
+      }
+    }
+  }
+}

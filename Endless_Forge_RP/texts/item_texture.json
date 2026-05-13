@@ -2,6 +2,27 @@
   "resource_pack_name": "Endless Forge - RP",
   "texture_name": "atlas.items",
   "textures": {
+    "crystal_shard": {
+      "textures": "textures/items/crystal_shard"
+    },
+    "crystal_eye": {
+      "textures": "textures/items/crystal_eye"
+    },
+    "crystal_upgrade_template": {
+      "textures": "textures/items/crystal_upgrade_template"
+    },
+    "crystal_helmet": {
+      "textures": "textures/items/crystal_helmet"
+    },
+    "crystal_chestplate": {
+      "textures": "textures/items/crystal_chestplate"
+    },
+    "crystal_leggings": {
+      "textures": "textures/items/crystal_leggings"
+    },
+    "crystal_boots": {
+      "textures": "textures/items/crystal_boots"
+    },
     "mythium_ingot": {
       "textures": "textures/items/mythium_ingot"
     },

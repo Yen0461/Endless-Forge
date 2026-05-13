@@ -3,14 +3,14 @@
   "header": {
     "name": "Crystal Armor BP",
     "description": "Behavior pack for custom crystal armor",
-    "uuid": "b8c3c1c1-5c4a-4e3e-9b8d-1f2a9c1a0e11",
+    "uuid": "5f8c2c3e-9b4a-4f1e-8d77-3c2b1a9f4e12",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "e2f4a2b4-7b1e-4d8a-9c33-2f4e1c9b8d22",
+      "uuid": "a3d9b1f7-6c44-4e8b-9f22-7e1c4a8d9b55",
       "version": [1, 0, 0]
     }
   ]

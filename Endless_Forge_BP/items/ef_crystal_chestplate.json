@@ -5,11 +5,12 @@
     "components": {
       "minecraft:icon": "crystal_chestplate",
       "minecraft:armor": {
-        "protection": 9,
+        "protection": 8,
         "slot": "chest",
         "texture_type": "diamond"
       },
-      "minecraft:durability": { "max_durability": 900 }
+      "minecraft:durability": { "max_durability": 850 },
+      "minecraft:render_offsets": "armor"
     }
   }
 }

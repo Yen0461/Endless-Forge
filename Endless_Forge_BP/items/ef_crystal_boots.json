@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": { "identifier": "ef:crystal_boots" },
+    "components": {
+      "minecraft:icon": "crystal_boots",
+      "minecraft:armor": {
+        "slot": "feet",
+        "protection": 4,
+        "texture_type": "diamond"
+      },
+      "minecraft:durability": { "max_durability": 600 }
+    }
+  }
+}

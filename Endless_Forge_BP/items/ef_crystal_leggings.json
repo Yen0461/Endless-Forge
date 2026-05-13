@@ -5,11 +5,12 @@
     "components": {
       "minecraft:icon": "crystal_leggings",
       "minecraft:armor": {
-        "slot": "legs",
         "protection": 7,
+        "slot": "legs",
         "texture_type": "diamond"
       },
-      "minecraft:durability": { "max_durability": 800 }
+      "minecraft:durability": { "max_durability": 800 },
+      "minecraft:render_offsets": "armor"
     }
   }
 }

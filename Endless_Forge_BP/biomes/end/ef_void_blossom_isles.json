@@ -1,1 +1,17 @@
-
+{
+  "ef:void_blossom_isles": {
+    "format_version": "1.21.0",
+    "minecraft:end_surface": {
+      "top_material": "minecraft:end_stone",
+      "mid_material": "minecraft:end_stone",
+      "foundation_material": "minecraft:end_stone"
+    },
+    "minecraft:tags": {
+      "tags": [
+        "end",
+        "ef_void_blossom_isles",
+        "ef_boss_void_blossom_queen"
+      ]
+    }
+  }
+}

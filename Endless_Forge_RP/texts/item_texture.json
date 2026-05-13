@@ -1,1 +1,12 @@
-
+{
+  "resource_pack_name": "Endless Forge - RP",
+  "texture_name": "atlas.items",
+  "textures": {
+    "mythium_ingot": {
+      "textures": "textures/items/mythium_ingot"
+    },
+    "mythium_helmet": {
+      "textures": "textures/items/mythium_helmet"
+    }
+  }
+}

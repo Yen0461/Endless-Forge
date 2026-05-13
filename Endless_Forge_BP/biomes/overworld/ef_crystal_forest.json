@@ -1,1 +1,24 @@
-
+{
+  "ef:crystal_forest": {
+    "format_version": "1.21.0",
+    "minecraft:climate": {
+      "temperature": 0.6,
+      "downfall": 0.3
+    },
+    "minecraft:overworld_height": {
+      "noise_type": "lowlands"
+    },
+    "minecraft:surface_parameters": {
+      "top_material": "minecraft:grass_block",
+      "mid_material": "minecraft:dirt",
+      "foundation_material": "minecraft:stone"
+    },
+    "minecraft:tags": {
+      "tags": [
+        "overworld",
+        "ef_crystal_forest",
+        "ef_boss_crystal_titan"
+      ]
+    }
+  }
+}

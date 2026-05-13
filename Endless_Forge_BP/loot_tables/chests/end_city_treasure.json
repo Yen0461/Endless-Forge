@@ -1,0 +1,11 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "loot_table", "name": "loot_tables/chests/ef_end_mythium_inject.json" }
+      ]
+    }
+  ]
+}

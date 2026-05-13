@@ -1,1 +1,7 @@
-
+item.ef.mythium_ingot.name=Mythium Ingot
+item.ef.mythium_helmet.name=Mythium Helmet
+entity.ef.crystal_stalker.name=Crystal Stalker
+entity.ef.crystal_titan_boss.name=Crystal Titan
+biome.ef.crystal_forest.name=Crystal Forest
+biome.ef.ashen_depths.name=Ashen Depths
+biome.ef.void_blossom_isles.name=Void Blossom Isles

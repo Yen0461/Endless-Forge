@@ -7,7 +7,7 @@
       "minecraft:armor": {
         "protection": 4,
         "slot": "head",
-        "texture_type": "diamond"
+        "texture_type": "crystal"
       },
       "minecraft:durability": { "max_durability": 700 },
       "minecraft:render_offsets": "armor"

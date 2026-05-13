@@ -5,11 +5,12 @@
     "components": {
       "minecraft:icon": "crystal_boots",
       "minecraft:armor": {
-        "slot": "feet",
         "protection": 4,
+        "slot": "feet",
         "texture_type": "diamond"
       },
-      "minecraft:durability": { "max_durability": 600 }
+      "minecraft:durability": { "max_durability": 600 },
+      "minecraft:render_offsets": "armor"
     }
   }
 }

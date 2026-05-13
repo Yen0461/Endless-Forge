@@ -1,1 +1,24 @@
-
+{
+  "format_version": "1.21.0",
+  "minecraft:spawn_rules": {
+    "description": {
+      "identifier": "ef:crystal_titan_boss",
+      "population_control": "monster"
+    },
+    "conditions": [
+      {
+        "minecraft:biome_filter": {
+          "test": "has_tag",
+          "operator": "==",
+          "value": "ef_boss_crystal_titan"
+        }
+      },
+      {
+        "minecraft:difficulty_filter": {
+          "operator": "==",
+          "value": "hard"
+        }
+      }
+    ]
+  }
+}

@@ -5,12 +5,11 @@
     "components": {
       "minecraft:icon": "crystal_helmet",
       "minecraft:armor": {
+        "protection": 4,
         "slot": "head",
-        "protection": 5,
         "texture_type": "diamond"
       },
-      "minecraft:durability": { "max_durability": 650 },
-
+      "minecraft:durability": { "max_durability": 700 },
       "minecraft:render_offsets": "armor"
     }
   }

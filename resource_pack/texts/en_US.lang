@@ -1,26 +1,27 @@
-item.ef.mythium_ingot.name=Mythium Ingot
-item.ef.mythium_helmet.name=Mythium Helmet
+item.ef:mythium_ingot=Mythium Ingot
+item.ef:mythium_helmet=Mythium Helmet
 
-entity.ef.crystal_stalker.name=Crystal Stalker
-entity.ef.crystal_titan_boss.name=Crystal Titan
+entity.ef:crystal_stalker.name=Crystal Stalker
+entity.ef:crystal_titan_boss.name=Crystal Titan
 
-biome.ef.crystal_forest.name=Crystal Forest
-biome.ef.ashen_depths.name=Ashen Depths
-biome.ef.void_blossom_isles.name=Void Blossom Isles
+biome.ef:crystal_forest.name=Crystal Forest
+biome.ef:ashen_depths.name=Ashen Depths
+biome.ef:void_blossom_isles.name=Void Blossom Isles
 
-item.ef.crystal_shard.name=Crystal Shard
-item.ef.crystal_eye.name=Crystal Eye
-item.ef.crystal_upgrade_template.name=Crystal Upgrade Template
-item.ef.crystal_helmet.name=Crystal Helmet
-item.ef.crystal_chestplate.name=Crystal Chestplate
-item.ef.crystal_leggings.name=Crystal Leggings
-item.ef.crystal_boots.name=Crystal Boots
+item.ef:crystal_shard=Crystal Shard
+item.ef:crystal_eye=Crystal Eye
+item.ef:crystal_upgrade_template=Crystal Upgrade Template
 
-item.ef.yellow_diamond.name=Yellow Diamond
-item.ef.yellow_diamond_helmet.name=Yellow Diamond Helmet
-item.ef.yellow_diamond_chestplate.name=Yellow Diamond Chestplate
-item.ef.yellow_diamond_leggings.name=Yellow Diamond Leggings
-item.ef.yellow_diamond_boots.name=Yellow Diamond Boots
+item.ef:crystal_helmet=Crystal Helmet
+item.ef:crystal_chestplate=Crystal Chestplate
+item.ef:crystal_leggings=Crystal Leggings
+item.ef:crystal_boots=Crystal Boots
 
-tile.ef.crystal_ore.name=Crystal Ore
-tile.ef.yellow_diamond_ore.name=Yellow Diamond Ore
+item.ef:yellow_diamond=Yellow Diamond
+item.ef:yellow_diamond_helmet=Yellow Diamond Helmet
+item.ef:yellow_diamond_chestplate=Yellow Diamond Chestplate
+item.ef:yellow_diamond_leggings=Yellow Diamond Leggings
+item.ef:yellow_diamond_boots=Yellow Diamond Boots
+
+tile.ef:crystal_ore.name=Crystal Ore
+tile.ef:yellow_diamond_ore.name=Yellow Diamond Ore

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "ef:crystal_ore_feature_rule",
+      "places_feature": "ef:crystal_ore_feature"
+    },
+    "conditions": {
+      "placement_pass": "underground_ores",
+      "biome_filter": [
+        {
+          "test": "any_tag",
+          "operator": "==",
+          "value": "minecraft:is_end"
+        }
+      ]
+    },
+    "distribution": {
+      "iterations": 12,
+      "x": { "distribution": "uniform", "extent": [0, 16] },
+      "z": { "distribution": "uniform", "extent": [0, 16] },
+      "y": { "distribution": "uniform", "extent": [10, 60] }
+    }
+  }
+}

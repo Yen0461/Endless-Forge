@@ -9,8 +9,10 @@
       "placement_pass": "underground_ores",
       "minecraft:biome_filter": [
         {
-          "test": "is_overworld",
-          "value": true
+          "any_of": [
+            { "test": "has_biome_tag", "operator": "==", "value": "hot" },
+            { "test": "has_biome_tag", "operator": "==", "value": "warm" }
+          ]
         }
       ]
     },

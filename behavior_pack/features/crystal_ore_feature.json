@@ -1,0 +1,9 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:ore_feature": {
+    "description": { "identifier": "ef:crystal_ore_feature" },
+    "count": 12,
+    "places_block": "ef:crystal_ore",
+    "may_replace": ["minecraft:end_stone"]
+  }
+}

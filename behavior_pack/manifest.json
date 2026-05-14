@@ -1,26 +1,25 @@
 {
-  "format_version": 2,
+	"format_version": 2,
+	"header": {
+		"name": "[BP] Endless Forge",
+		"description": "A massive survival progression addon with biome-based ores, bosses, structures, and endgame gear.",
+		"uuid": "5f8c2c3e-9b4a-4f1e-8d77-3c2b1a9f4e12",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 0]
+	},
 
-  "header": {
-    "name": "Endless Forge BP",
-    "description": "Behavior pack for Endless Forge",
-    "uuid": "5f8c2c3e-9b4a-4f1e-8d77-3c2b1a9f4e12",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0]
-  },
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "8b5f2a41-6f9a-4e8f-92a1-7d6c5b3e2f11",
+			"version": [1, 0, 0]
+		}
+	],
 
-  "modules": [
-    {
-      "type": "data",
-      "uuid": "8b5f2a41-6f9a-4e8f-92a1-7d6c5b3e2f11",
-      "version": [1, 0, 0]
-    }
-  ],
-
-  "dependencies": [
-    {
-      "uuid": "c7e4a1b2-3d55-4f8c-9a11-2b3c4d5e6f77",
-      "version": [1, 0, 0]
-    }
-  ]
+	"dependencies": [
+		{
+			"uuid": "a91d7c62-2f48-4b5f-83d9-1e7c6a5b4f22",
+			"version": [1, 0, 0]
+		}
+	]
 }

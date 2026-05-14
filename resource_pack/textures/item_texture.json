@@ -1,0 +1,51 @@
+
+{
+  "resource_pack_name": "Endless Forge - RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "crystal_shard": {
+      "textures": "textures/items/crystal_shard"
+    },
+    "crystal_eye": {
+      "textures": "textures/items/crystal_eye"
+    },
+    "crystal_upgrade_template": {
+      "textures": "textures/items/crystal_upgrade_template"
+    },
+    "crystal_helmet": {
+      "textures": "textures/items/crystal_helmet"
+    },
+    "crystal_chestplate": {
+      "textures": "textures/items/crystal_chestplate"
+    },
+    "crystal_leggings": {
+      "textures": "textures/items/crystal_leggings"
+    },
+    "crystal_boots": {
+      "textures": "textures/items/crystal_boots"
+    },
+
+    "mythium_ingot": {
+      "textures": "textures/items/mythium_ingot"
+    },
+    "mythium_helmet": {
+      "textures": "textures/items/mythium_helmet"
+    },
+
+    "yellow_diamond": {
+      "textures": "textures/items/yellow_diamond"
+    },
+    "yellow_diamond_helmet": {
+      "textures": "textures/items/yellow_diamond_helmet"
+    },
+    "yellow_diamond_chestplate": {
+      "textures": "textures/items/yellow_diamond_chestplate"
+    },
+    "yellow_diamond_leggings": {
+      "textures": "textures/items/yellow_diamond_leggings"
+    },
+    "yellow_diamond_boots": {
+      "textures": "textures/items/yellow_diamond_boots"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Crystal Armor BP",
-    "description": "Behavior pack for custom crystal armor",
+    "name": "Endless Forge BP",
+    "description": "Behavior pack Endless Forge",
     "uuid": "5f8c2c3e-9b4a-4f1e-8d77-3c2b1a9f4e12",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]

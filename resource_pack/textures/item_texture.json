@@ -11,6 +11,7 @@
     "crystal_upgrade_template": {
       "textures": "textures/items/crystal_upgrade_template"
     },
+
     "crystal_helmet": {
       "textures": "textures/items/crystal_helmet"
     },

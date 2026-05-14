@@ -7,8 +7,7 @@
     "count": 4,
     "places_block": "ef:yellow_diamond_ore",
     "may_replace": [
-      "minecraft:stone",
-      "minecraft:deepslate"
+      "minecraft:stone"
     ]
   }
 }

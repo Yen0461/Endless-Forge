@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "ef:yellow_diamond_helmet"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "# #"
+    ],
+    "key": {
+      "#": {
+        "item": "ef:yellow_diamond"
+      }
+    },
+    "result": {
+      "item": "ef:yellow_diamond_helmet",
+      "count": 1
+    }
+  }
+}

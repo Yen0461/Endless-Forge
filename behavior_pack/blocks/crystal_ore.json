@@ -3,8 +3,8 @@
   "minecraft:block": {
     "description": { "identifier": "ef:crystal_ore" },
     "components": {
-      "minecraft:destroy_time": 3.0,
-      "minecraft:explosion_resistance": 3.0,
+      "minecraft:destroy_time": 50.0,
+      "minecraft:explosion_resistance": 1200.0,
       "minecraft:loot": "loot_tables/blocks/crystal_ore.json",
       "minecraft:material_instances": {
         "*": {

@@ -1,16 +1,25 @@
 {
   "format_version": 2,
+
   "header": {
     "name": "Endless Forge BP",
-    "description": "Behavior pack Endless Forge",
+    "description": "Behavior pack for Endless Forge",
     "uuid": "5f8c2c3e-9b4a-4f1e-8d77-3c2b1a9f4e12",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 0]
+    "min_engine_version": [1, 21, 0]
   },
+
   "modules": [
     {
       "type": "data",
-      "uuid": "a3d9b1f7-6c44-4e8b-9f22-7e1c4a8d9b55",
+      "uuid": "8b5f2a41-6f9a-4e8f-92a1-7d6c5b3e2f11",
+      "version": [1, 0, 0]
+    }
+  ],
+
+  "dependencies": [
+    {
+      "uuid": "c7e4a1b2-3d55-4f8c-9a11-2b3c4d5e6f77",
       "version": [1, 0, 0]
     }
   ]

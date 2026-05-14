@@ -1,8 +1,10 @@
 {
   "format_version": "1.21.0",
   "minecraft:recipe_smithing_transform": {
-    "description": { "identifier": "ef:crystal_chestplate_upgrade" },
-    "tags": [ "smithing_table" ],
+    "description": {
+      "identifier": "ef:crystal_chestplate_upgrade"
+    },
+    "tags": ["smithing_table"],
     "template": { "item": "ef:crystal_upgrade_template" },
     "base": { "item": "minecraft:netherite_chestplate" },
     "addition": { "item": "ef:crystal_shard" },

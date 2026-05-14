@@ -12,3 +12,10 @@ item.ef.crystal_helmet.name=Crystal Helmet
 item.ef.crystal_chestplate.name=Crystal Chestplate
 item.ef.crystal_leggings.name=Crystal Leggings
 item.ef.crystal_boots.name=Crystal Boots
+item.ef:yellow_diamond=Yellow Diamond
+item.ef:yellow_diamond_helmet=Yellow Diamond Helmet
+item.ef:yellow_diamond_chestplate=Yellow Diamond Chestplate
+item.ef:yellow_diamond_leggings=Yellow Diamond Leggings
+item.ef:yellow_diamond_boots=Yellow Diamond Boots
+
+tile.ef:yellow_diamond_ore=Yellow Diamond Ore

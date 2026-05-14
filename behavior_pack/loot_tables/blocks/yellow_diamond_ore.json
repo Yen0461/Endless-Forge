@@ -1,11 +1,12 @@
 {
+  "format_version": "1.21.0",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
           "type": "item",
-          "name": "yourpack:yellow_diamond_ore",
+          "name": "ef:yellow_diamond_ore",
           "conditions": [
             {
               "condition": "match_tool",
@@ -22,7 +23,7 @@
         },
         {
           "type": "item",
-          "name": "yourpack:yellow_diamond",
+          "name": "ef:yellow_diamond",
           "conditions": [
             {
               "condition": "inverted",
@@ -53,6 +54,11 @@
               "formula": "ore_drops"
             }
           ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:experience_bottle",
+          "weight": 1
         }
       ]
     }

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "ef:yellow_diamond_ore"
+    },
+    "components": {
+      "minecraft:destroy_time": 4.5,
+      "minecraft:explosion_resistance": 8.0,
+      "minecraft:requires_tool": true,
+
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:mineable/pickaxe",
+          "minecraft:diamond_tier_destructible"
+        ]
+      },
+
+      "minecraft:loot": "loot_tables/blocks/yellow_diamond_ore.json",
+
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "yellow_diamond_ore",
+          "render_method": "opaque"
+        }
+      }
+    }
+  }
+}

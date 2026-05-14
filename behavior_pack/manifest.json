@@ -5,7 +5,7 @@
     "description": "Behavior Pack for Endless Forge",
     "uuid": "b7e3c9d2-4f1a-4c8e-9d77-1a2b3c4d5e6f",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 5]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {

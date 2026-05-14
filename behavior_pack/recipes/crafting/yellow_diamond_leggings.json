@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "ef:yellow_diamond_leggings"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "# #",
+      "# #"
+    ],
+    "key": {
+      "#": {
+        "item": "ef:yellow_diamond"
+      }
+    },
+    "result": {
+      "item": "ef:yellow_diamond_leggings",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "Endless Forge - RP",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "crystal_ore": {
+      "textures": "textures/blocks/crystal_ore"
+    },
+    "yellow_diamond_ore": {
+      "textures": "textures/blocks/yellow_diamond_ore"
+    }
+  }
+}

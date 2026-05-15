@@ -1,0 +1,15 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.armor.v2": {
+      "arrays": {
+        "textures": {
+          "default": [ "texture.default" ],
+          "enchanted": [ "texture.enchanted" ]
+        }
+      },
+      "geometry": "geometry.default",
+      "materials": [ "material.default" ]
+    }
+  }
+}

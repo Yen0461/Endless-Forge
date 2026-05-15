@@ -25,6 +25,10 @@
       "textures": "textures/items/crystal_boots"
     },
 
+    "crystal_ore": {
+      "textures": "textures/items/crystal_ore"
+    },
+
     "mythium_ingot": {
       "textures": "textures/items/mythium_ingot"
     },
@@ -46,6 +50,10 @@
     },
     "yellow_diamond_boots": {
       "textures": "textures/items/yellow_diamond_boots"
+    },
+
+    "yellow_diamond_ore": {
+      "textures": "textures/items/yellow_diamond_ore"
     }
   }
 }

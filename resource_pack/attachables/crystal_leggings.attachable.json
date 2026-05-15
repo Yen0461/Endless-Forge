@@ -1,0 +1,25 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "endless_forge:crystal_leggings",
+      "materials": {
+        "default": "armor",
+        "enchanted": "armor_enchanted"
+      },
+      "textures": {
+        "default": "textures/models/armor/crystal_layer_2",
+        "enchanted": "textures/misc/enchanted_actor_glint"
+      },
+      "geometry": {
+        "default": "geometry.humanoid.armor.leggings"
+      },
+      "scripts": {
+        "parent_setup": "v.leg_layer_visible = false;"
+      },
+      "render_controllers": [
+        "controller.render.armor.v2"
+      ]
+    }
+  }
+}

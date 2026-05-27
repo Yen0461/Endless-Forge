@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.10",
+  "format_version": "1.21.0",
   "pools": [
     {
       "rolls": 1,
@@ -12,10 +12,7 @@
               "condition": "match_tool",
               "predicate": {
                 "enchantments": [
-                  {
-                    "enchantment": "silk_touch",
-                    "min_level": 1
-                  }
+                  { "enchantment": "silk_touch", "min_level": 1 }
                 ]
               }
             }
@@ -31,23 +28,13 @@
                 "condition": "match_tool",
                 "predicate": {
                   "enchantments": [
-                    {
-                      "enchantment": "silk_touch",
-                      "min_level": 1
-                    }
+                    { "enchantment": "silk_touch", "min_level": 1 }
                   ]
                 }
               }
             }
           ],
           "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            },
             {
               "function": "apply_bonus",
               "enchantment": "fortune",

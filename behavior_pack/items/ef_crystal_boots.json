@@ -1,16 +1,43 @@
 {
   "format_version": "1.21.0",
   "minecraft:item": {
-    "description": { "identifier": "ef:crystal_boots" },
+    "description": {
+      "identifier": "ef:crystal_boots",
+      "menu_category": {
+        "category": "equipment",
+        "group": "minecraft:itemGroup.name.boots"
+      }
+    },
     "components": {
-      "minecraft:icon": "crystal_boots",
-      "minecraft:armor": {
-        "protection": 4,
-        "slot": "feet",
-        "texture_type": "crystal"
+      "minecraft:icon": "voidium_boots",
+      "minecraft:max_stack_size": 1,
+      "minecraft:fire_resistant": true,
+      "minecraft:enchantable": {
+        "slot": "armor_feet",
+        "value": 12
       },
-      "minecraft:durability": { "max_durability": 600 },
-      "minecraft:render_offsets": "armor"
+      "minecraft:wearable": {
+        "slot": "slot.armor.feet",
+        "protection": 4
+      },
+      "minecraft:durability": {
+        "max_durability": 560,
+        "damage_chance": {
+          "min": 50,
+          "max": 95
+        }
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": ["ef:crystal_shard"],
+            "repair_amount": "q.max_durability * 0.25"
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": ["minecraft:is_armor", "minecraft:trimmable_armors"]
+      }
     }
   }
 }

@@ -5,25 +5,18 @@
       "identifier": "ef:yellow_diamond_ore"
     },
     "components": {
-      "minecraft:destroy_time": 4.5,
-      "minecraft:explosion_resistance": 8.0,
-      "minecraft:requires_tool": true,
-
-      "minecraft:tags": {
-        "tags": [
-          "minecraft:mineable/pickaxe",
-          "minecraft:diamond_tier_destructible"
-        ]
-      },
-
-      "minecraft:loot": "loot_tables/blocks/yellow_diamond_ore.json",
-
       "minecraft:material_instances": {
         "*": {
           "texture": "yellow_diamond_ore",
           "render_method": "opaque"
         }
-      }
+      },
+      "minecraft:destroy_time": 3,
+      "minecraft:explosion_resistance": 3,
+      "minecraft:required_tool": {
+        "tool": "minecraft:iron_pickaxe"
+      },
+      "minecraft:loot": "loot_tables/blocks/yellow_diamond_ore.json"
     }
   }
 }

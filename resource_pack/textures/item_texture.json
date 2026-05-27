@@ -29,13 +29,6 @@
       "textures": "textures/items/crystal_ore"
     },
 
-    "mythium_ingot": {
-      "textures": "textures/items/mythium_ingot"
-    },
-    "mythium_helmet": {
-      "textures": "textures/items/mythium_helmet"
-    },
-
     "yellow_diamond": {
       "textures": "textures/items/yellow_diamond"
     },

@@ -1,16 +1,43 @@
 {
   "format_version": "1.21.0",
   "minecraft:item": {
-    "description": { "identifier": "ef:crystal_helmet" },
+    "description": {
+      "identifier": "ef:crystal_helmet",
+      "menu_category": {
+        "category": "equipment",
+        "group": "minecraft:itemGroup.name.helmet"
+      }
+    },
     "components": {
       "minecraft:icon": "crystal_helmet",
-      "minecraft:armor": {
-        "protection": 4,
-        "slot": "head",
-        "texture_type": "crystal"
+      "minecraft:max_stack_size": 1,
+      "minecraft:fire_resistant": true,
+      "minecraft:enchantable": {
+        "slot": "armor_head",
+        "value": 12
       },
-      "minecraft:durability": { "max_durability": 700 },
-      "minecraft:render_offsets": "armor"
+      "minecraft:wearable": {
+        "slot": "slot.armor.head",
+        "protection": 4
+      },
+      "minecraft:durability": {
+        "max_durability": 500,
+        "damage_chance": {
+          "min": 50,
+          "max": 95
+        }
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": ["ef:crystal_shard"],
+            "repair_amount": "q.max_durability * 0.25"
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": ["minecraft:is_armor", "minecraft:trimmable_armors"]
+      }
     }
   }
 }

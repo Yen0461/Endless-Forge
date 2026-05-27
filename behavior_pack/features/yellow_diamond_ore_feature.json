@@ -4,10 +4,14 @@
     "description": {
       "identifier": "ef:yellow_diamond_ore_feature"
     },
-    "count": 4,
-    "places_block": "ef:yellow_diamond_ore",
-    "may_replace": [
-      "minecraft:stone"
+    "count": 8,
+    "replace_rules": [
+      {
+        "places_block": "ef:yellow_diamond_ore",
+        "may_replace": [
+          "minecraft:stone"
+        ]
+      }
     ]
   }
 }

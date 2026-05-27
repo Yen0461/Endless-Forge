@@ -1,22 +1,23 @@
 {
-  "format_version": "1.21.0",
+  "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "ef:yellow_diamond_boots"
+    "identifier": "ef:yellow_diamond_boots_recipe"
     },
-    "tags": ["crafting_table"],
+
+    
+    "tags": [ "crafting_table" ],
     "pattern": [
-      "# #",
-      "# #"
+      "X X",
+      "X X"
     ],
     "key": {
-      "#": {
+      "X": {
         "item": "ef:yellow_diamond"
       }
     },
     "result": {
-      "item": "ef:yellow_diamond_boots",
-      "count": 1
+      "item": "ef:yellow_diamond_boots"
     }
   }
 }

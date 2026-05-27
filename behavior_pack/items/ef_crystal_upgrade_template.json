@@ -5,7 +5,26 @@
       "identifier": "ef:crystal_upgrade_template"
     },
     "components": {
-      "minecraft:max_stack_size": 64
+      "minecraft:max_stack_size": 64,
+      "minecraft:icon": "crystal_upgrade_template",
+
+      "minecraft:lore": [
+        "Smithing Template",
+        "Used to upgrade Netherite gear into Crystal gear",
+        "",
+        "Applies to:",
+        "- Netherite Tools",
+        "- Netherite Armor",
+        "",
+        "Ingredients:",
+        "- Crystal Shard"
+      ],
+
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:smithing_templates"
+        ]
+      }
     }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "ef:yellow_diamond_ore_deepslate"
+    },
+    "components": {
+      "minecraft:destroy_time": 4.5,
+      "minecraft:explosion_resistance": 6,
+      "minecraft:map_color": "#3a3a3a",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "yellow_diamond_ore_deepslate",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:loot": "loot_tables/blocks/yellow_diamond_ore_deepslate.json",
+      "minecraft:destroy_speed": {
+        "value": 3,
+        "block_types": ["stone"]
+      }
+    }
+  }
+}

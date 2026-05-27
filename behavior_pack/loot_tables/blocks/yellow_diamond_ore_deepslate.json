@@ -1,22 +1,46 @@
 {
+  "format_version": "1.21.0",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
           "type": "item",
-          "name": "yourpack:yellow_diamond"
-        }
-      ],
-      "functions": [
-        {
-          "function": "set_count",
-          "count": 1
+          "name": "ef:yellow_diamond_ore_deepslate",
+          "conditions": [
+            {
+              "condition": "match_tool",
+              "predicate": {
+                "enchantments": [
+                  { "enchantment": "silk_touch", "min_level": 1 }
+                ]
+              }
+            }
+          ]
         },
         {
-          "function": "apply_bonus",
-          "enchantment": "fortune",
-          "formula": "ore_drops"
+          "type": "item",
+          "name": "ef:yellow_diamond",
+          "conditions": [
+            {
+              "condition": "inverted",
+              "term": {
+                "condition": "match_tool",
+                "predicate": {
+                  "enchantments": [
+                    { "enchantment": "silk_touch", "min_level": 1 }
+                  ]
+                }
+              }
+            }
+          ],
+          "functions": [
+            {
+              "function": "apply_bonus",
+              "enchantment": "fortune",
+              "formula": "ore_drops"
+            }
+          ]
         }
       ]
     }

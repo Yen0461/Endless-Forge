@@ -1,17 +1,29 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Endless Forge",
+    "name": "Endless Forge RP",
     "description": "Resource Pack for Endless Forge",
-    "uuid": "8f0c1c1e-6c7e-4e8a-9b1c-4c0f2c8a9d55",
+    "uuid": "a2a7c0f4-0c0a-4d56-8a39-4d6cf5e2d777",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0]
+    "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "d2a4f7b3-1e8f-4c0a-9e3b-2c4d7f8b1a22",
+      "uuid": "74c3e9a2-3d3d-49e6-90b2-f4f74d57f6c8",
       "version": [1, 0, 0]
     }
-  ]
+  ],
+  "dependencies": [
+    {
+      "uuid": "5d9e6e6d-9b6d-4f2c-bf5f-9a1f7e5b3c11",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Hsiu"],
+    "generated_with": {
+      "blockbench": ["4.0"]
+    }
+  }
 }

@@ -2,10 +2,10 @@ item.ef:crystal_shard=§bCrystal Shard
 item.ef:crystal_eye=§5Crystal Eye
 item.ef:crystal_upgrade_template=§eCrystal Upgrade Template
 
-item.ef:crystal_helmet=§eCrystal Helmet
-item.ef:crystal_chestplate=§eCrystal Chestplate
-item.ef:crystal_leggings=§eCrystal Leggings
-item.ef:crystal_boots=§eCrystal Boots
+item.ef:crystal_helmet=§aCrystal Helmet
+item.ef:crystal_chestplate=§aCrystal Chestplate
+item.ef:crystal_leggings=§aCrystal Leggings
+item.ef:crystal_boots=§aCrystal Boots
 
 item.ef:yellow_diamond=§fYellow Diamond
 item.ef:yellow_diamond_helmet=§fYellow Diamond Helmet
@@ -15,3 +15,4 @@ item.ef:yellow_diamond_boots=§fYellow Diamond Boots
 
 tile.ef:crystal_ore.name=§fCrystal Ore
 tile.ef:yellow_diamond_ore.name=§fYellow Diamond Ore
+tile.ef:yellow_diamond_ore_deepslate.name=§fDeepslate Yellow Diamond Ore

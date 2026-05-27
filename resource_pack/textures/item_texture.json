@@ -25,10 +25,6 @@
       "textures": "textures/items/crystal_boots"
     },
 
-    "crystal_ore": {
-      "textures": "textures/items/crystal_ore"
-    },
-
     "yellow_diamond": {
       "textures": "textures/items/yellow_diamond"
     },
@@ -43,10 +39,6 @@
     },
     "yellow_diamond_boots": {
       "textures": "textures/items/yellow_diamond_boots"
-    },
-
-    "yellow_diamond_ore": {
-      "textures": "textures/items/yellow_diamond_ore"
     }
   }
 }

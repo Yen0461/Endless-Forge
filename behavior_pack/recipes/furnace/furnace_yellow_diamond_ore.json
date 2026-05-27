@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "ef:furnace_yellow_diamond_ore"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "ef:yellow_diamond_ore",
+    "output": "ef:yellow_diamond"
+  }
+  
+}

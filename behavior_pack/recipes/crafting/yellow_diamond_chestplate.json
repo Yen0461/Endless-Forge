@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "ef:yellow_diamond_chestplate"
+    "identifier": "ef:yellow_diamond_chestplate_recipe"
     },
 
     

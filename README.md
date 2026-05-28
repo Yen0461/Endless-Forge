@@ -2,7 +2,7 @@
 A Minecraft bedrock addon to add new mobs, bosses, items, and structures, and biomes.
 
 **Why I built it**
-I wanted to make a Minecraft mod that will let people play for a long time because Minecraft seems too "short" after the Ender Dragon and other bosses are defeated. This mod will take more time to get better items and you can constantly improve what you have so the game feels new.
+After beating the Ender Dragon and getting everything in the game, I felt bored. I wanted to make a Minecraft mod that will let people play for a long time because Minecraft seems too "short" after the Ender Dragon and other bosses are defeated. This mod will take more time to get better items and you can constantly improve what you have so the game feels new.
 
 (Screenshots here)
 

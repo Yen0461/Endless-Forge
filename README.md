@@ -15,6 +15,7 @@ To use, download as a zip file and open it in your files. Press extract all or u
 **How to install onto Minecraft**
 
 Open Minecraft Bedrock and double click the .mcaddon file.
+Make sure to use a version in the Minecraft 1.21 family or features will break.
 
 (Screenshot)
 

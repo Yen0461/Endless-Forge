@@ -4,20 +4,20 @@
     "name": "Endless Forge RP",
     "description": "Resource Pack for Endless Forge",
     "uuid": "a2a7c0f4-0c0a-4d56-8a39-4d6cf5e2d777",
-    "version": [1, 0, 0],
+    "version": [1, 0, 1],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "74c3e9a2-3d3d-49e6-90b2-f4f74d57f6c8",
-      "version": [1, 0, 0]
+      "version": [1, 0, 1]
     }
   ],
   "dependencies": [
     {
       "uuid": "5d9e6e6d-9b6d-4f2c-bf5f-9a1f7e5b3c11",
-      "version": [1, 0, 0]
+      "version": [1, 0, 1]
     }
   ],
   "metadata": {

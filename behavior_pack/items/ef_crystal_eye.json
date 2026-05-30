@@ -1,14 +1,17 @@
 {
-  "format_version": "1.21.0",
-  "minecraft:item": {
-    "description": {
-      "identifier": "ef:crystal_eye"
-    },
-    "components": {
-      "minecraft:max_stack_size": 16,
-      "minecraft:icon": {
-        "texture": "crystal_eye"
-      }
-    }
-  }
+	"format_version": "1.20.30",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ef:crystal_eye",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 64,
+			"minecraft:icon": {
+				"texture": "crystal_eye"
+			}
+		}
+	}
 }

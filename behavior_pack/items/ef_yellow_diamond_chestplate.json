@@ -5,7 +5,7 @@
       "identifier": "ef:yellow_diamond_chestplate",
       "menu_category": {
         "category": "equipment",
-        "group": "boots"
+        "group": "chestplate"
       }
     },
     "components": {
@@ -14,12 +14,12 @@
       "minecraft:fire_resistant": false,
 
       "minecraft:enchantable": {
-        "slot": "armor_feet",
+        "slot": "armor_chest",
         "value": 12
       },
 
       "minecraft:wearable": {
-        "slot": "slot.armor.feet"
+        "slot": "slot.armor.chest"
       },
 
       "minecraft:armor": {

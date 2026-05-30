@@ -1,13 +1,13 @@
 {
-  "format_version": "1.21.0",
+  "format_version": "1.12",
   "minecraft:recipe_smithing_transform": {
     "description": {
-      "identifier": "ef:crystal_leggings_upgrade"
+      "identifier": "ef:smithing_crystal_leggings"
     },
-    "tags": ["smithing_table"],
-    "template": { "item": "ef:crystal_upgrade_template" },
-    "base": { "item": "minecraft:netherite_leggings" },
-    "addition": { "item": "ef:crystal_shard" },
-    "result": { "item": "ef:crystal_leggings" }
+    "tags": [ "smithing_table" ],
+    "template": "ef:crystal_upgrade_template",
+    "base": "minecraft:netherite_leggings",
+    "addition": "ef:crystal_shard",
+    "result": "ef:crystal_leggings"
   }
 }

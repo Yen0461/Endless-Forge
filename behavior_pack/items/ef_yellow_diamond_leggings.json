@@ -5,28 +5,34 @@
       "identifier": "ef:yellow_diamond_leggings",
       "menu_category": {
         "category": "equipment",
-        "group": "minecraft:itemGroup.name.leggings"
+        "group": "leggings"
       }
     },
     "components": {
       "minecraft:icon": "yellow_diamond_leggings",
       "minecraft:max_stack_size": 1,
-      "minecraft:fire_resistant": false,
+
+      "minecraft:wearable": {
+        "slot": "slot.armor.legs"
+      },
+
+      "minecraft:armor": {
+        "protection": 6
+      },
+
       "minecraft:enchantable": {
         "slot": "armor_legs",
         "value": 12
       },
-      "minecraft:wearable": {
-        "slot": "slot.armor.legs",
-        "protection": 6
-      },
+
       "minecraft:durability": {
-        "max_durability": 495,
+        "max_durability": 555,
         "damage_chance": {
           "min": 50,
           "max": 95
         }
       },
+
       "minecraft:repairable": {
         "repair_items": [
           {
@@ -35,6 +41,7 @@
           }
         ]
       },
+
       "minecraft:tags": {
         "tags": ["minecraft:is_armor", "minecraft:trimmable_armors"]
       }

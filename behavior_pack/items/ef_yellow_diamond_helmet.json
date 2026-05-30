@@ -5,18 +5,12 @@
       "identifier": "ef:yellow_diamond_helmet",
       "menu_category": {
         "category": "equipment",
-        "group": "helmet"
+        "group": "helmets"
       }
     },
     "components": {
       "minecraft:icon": "yellow_diamond_helmet",
       "minecraft:max_stack_size": 1,
-      "minecraft:fire_resistant": false,
-
-      "minecraft:enchantable": {
-        "slot": "armor_head",
-        "value": 12
-      },
 
       "minecraft:wearable": {
         "slot": "slot.armor.head"
@@ -26,8 +20,13 @@
         "protection": 3
       },
 
+      "minecraft:enchantable": {
+        "slot": "armor_head",
+        "value": 12
+      },
+
       "minecraft:durability": {
-        "max_durability": 429,
+        "max_durability": 407,
         "damage_chance": {
           "min": 50,
           "max": 95

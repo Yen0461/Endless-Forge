@@ -9,7 +9,9 @@
       }
     },
     "components": {
-      "minecraft:icon": "crystal_leggings",
+      "minecraft:icon": {
+        "texture": "crystal_leggings"
+      },
       "minecraft:max_stack_size": 1,
       "minecraft:fire_resistant": true,
 

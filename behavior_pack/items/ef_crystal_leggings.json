@@ -12,14 +12,20 @@
       "minecraft:icon": "crystal_leggings",
       "minecraft:max_stack_size": 1,
       "minecraft:fire_resistant": true,
+
       "minecraft:enchantable": {
         "slot": "armor_legs",
         "value": 12
       },
+
       "minecraft:wearable": {
-        "slot": "slot.armor.legs",
+        "slot": "slot.armor.legs"
+      },
+
+      "minecraft:armor": {
         "protection": 7
       },
+
       "minecraft:durability": {
         "max_durability": 650,
         "damage_chance": {
@@ -27,6 +33,7 @@
           "max": 95
         }
       },
+
       "minecraft:repairable": {
         "repair_items": [
           {
@@ -35,6 +42,7 @@
           }
         ]
       },
+
       "minecraft:tags": {
         "tags": ["minecraft:is_armor", "minecraft:trimmable_armors"]
       }

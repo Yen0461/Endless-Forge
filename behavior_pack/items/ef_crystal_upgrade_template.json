@@ -2,35 +2,19 @@
   "format_version": "1.21.0",
   "minecraft:item": {
     "description": {
-      "identifier": "ef:crystal_upgrade_template"
+      "identifier": "ef:crystal_upgrade_template",
+      "menu_category": {
+        "category": "items"
+      }
     },
     "components": {
+      "minecraft:icon": "crystal_upgrade_template",
       "minecraft:max_stack_size": 64,
-
-      "minecraft:icon": {
-        "texture": "crystal_upgrade_template"
-      },
-
-      "minecraft:lore": [
-        "Smithing Template",
-        "Used to upgrade Netherite gear into Crystal gear",
-        "",
-        "Applies to:",
-        "- Netherite Tools",
-        "- Netherite Armor",
-        "",
-        "Ingredients:",
-        "- Crystal Shard"
-      ],
-
       "minecraft:smithing_template": {
-        "types": ["crystal_upgrade"]
-      },
-
-      "minecraft:tags": {
-        "tags": [
-          "minecraft:smithing_templates"
-        ]
+        "applies_to": "Applies to:",
+        "ingredients": "Ingredients:",
+        "base_slot_description": "Netherite Equipment",
+        "additions_slot_description": "Crystal Shard"
       }
     }
   }

@@ -14,7 +14,7 @@
 				"slot": "armor_legs"
 			},
 			"minecraft:wearable": {
-				"protection": 4,
+				"protection": 7,
 				"dispensable": true,
 				"slot": "slot.armor.legs"
 			},

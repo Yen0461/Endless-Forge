@@ -5,28 +5,35 @@
       "identifier": "ef:yellow_diamond_chestplate",
       "menu_category": {
         "category": "equipment",
-        "group": "minecraft:itemGroup.name.chestplate"
+        "group": "boots"
       }
     },
     "components": {
       "minecraft:icon": "yellow_diamond_chestplate",
       "minecraft:max_stack_size": 1,
       "minecraft:fire_resistant": false,
+
       "minecraft:enchantable": {
-        "slot": "armor_chest",
+        "slot": "armor_feet",
         "value": 12
       },
+
       "minecraft:wearable": {
-        "slot": "slot.armor.chest",
-        "protection": 8
+        "slot": "slot.armor.feet"
       },
+
+      "minecraft:armor": {
+        "protection": 3
+      },
+
       "minecraft:durability": {
-        "max_durability": 528,
+        "max_durability": 429,
         "damage_chance": {
           "min": 50,
           "max": 95
         }
       },
+
       "minecraft:repairable": {
         "repair_items": [
           {
@@ -35,6 +42,7 @@
           }
         ]
       },
+
       "minecraft:tags": {
         "tags": ["minecraft:is_armor", "minecraft:trimmable_armors"]
       }

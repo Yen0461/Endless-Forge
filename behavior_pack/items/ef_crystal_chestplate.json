@@ -9,7 +9,9 @@
       }
     },
     "components": {
-      "minecraft:icon": "crystal_chestplate",
+      "minecraft:icon": {
+        "texture": "crystal_chestplate"
+      },
       "minecraft:max_stack_size": 1,
       "minecraft:fire_resistant": true,
 

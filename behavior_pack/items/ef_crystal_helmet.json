@@ -9,7 +9,9 @@
       }
     },
     "components": {
-      "minecraft:icon": "crystal_helmet",
+      "minecraft:icon": {
+        "texture": "crystal_helmet"
+      },
       "minecraft:max_stack_size": 1,
       "minecraft:fire_resistant": true,
 

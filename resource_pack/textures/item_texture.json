@@ -3,42 +3,42 @@
   "texture_name": "atlas.items",
   "texture_data": {
     "crystal_shard": {
-      "textures": "textures/items/crystal_shard"
+      "textures": "textures/items/crystal_shard.png"
     },
     "crystal_eye": {
-      "textures": "textures/items/crystal_eye"
+      "textures": "textures/items/crystal_eye.png"
     },
     "crystal_upgrade_template": {
-      "textures": "textures/items/crystal_upgrade_template"
+      "textures": "textures/items/crystal_upgrade_template.png"
     },
 
     "crystal_helmet": {
-      "textures": "textures/items/crystal_helmet"
+      "textures": "textures/items/crystal_helmet.png"
     },
     "crystal_chestplate": {
-      "textures": "textures/items/crystal_chestplate"
+      "textures": "textures/items/crystal_chestplate.png"
     },
     "crystal_leggings": {
-      "textures": "textures/items/crystal_leggings"
+      "textures": "textures/items/crystal_leggings.png"
     },
     "crystal_boots": {
-      "textures": "textures/items/crystal_boots"
+      "textures": "textures/items/crystal_boots.png"
     },
 
     "yellow_diamond": {
-      "textures": "textures/items/yellow_diamond"
+      "textures": "textures/items/yellow_diamond.png"
     },
     "yellow_diamond_helmet": {
-      "textures": "textures/items/yellow_diamond_helmet"
+      "textures": "textures/items/yellow_diamond_helmet.png"
     },
     "yellow_diamond_chestplate": {
-      "textures": "textures/items/yellow_diamond_chestplate"
+      "textures": "textures/items/yellow_diamond_chestplate.png"
     },
     "yellow_diamond_leggings": {
-      "textures": "textures/items/yellow_diamond_leggings"
+      "textures": "textures/items/yellow_diamond_leggings.png"
     },
     "yellow_diamond_boots": {
-      "textures": "textures/items/yellow_diamond_boots"
+      "textures": "textures/items/yellow_diamond_boots.png"
     }
   }
 }

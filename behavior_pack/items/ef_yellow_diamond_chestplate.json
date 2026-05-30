@@ -5,29 +5,28 @@
       "identifier": "ef:yellow_diamond_chestplate",
       "menu_category": {
         "category": "equipment",
-        "group": "chestplate"
+        "group": "chestplates"
       }
     },
     "components": {
       "minecraft:icon": "yellow_diamond_chestplate",
       "minecraft:max_stack_size": 1,
-      "minecraft:fire_resistant": false,
-
-      "minecraft:enchantable": {
-        "slot": "armor_chest",
-        "value": 12
-      },
 
       "minecraft:wearable": {
         "slot": "slot.armor.chest"
       },
 
       "minecraft:armor": {
-        "protection": 3
+        "protection": 8
+      },
+
+      "minecraft:enchantable": {
+        "slot": "armor_torso",
+        "value": 12
       },
 
       "minecraft:durability": {
-        "max_durability": 429,
+        "max_durability": 592,
         "damage_chance": {
           "min": 50,
           "max": 95

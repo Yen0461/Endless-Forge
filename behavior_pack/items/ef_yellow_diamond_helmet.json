@@ -9,7 +9,9 @@
       }
     },
     "components": {
-      "minecraft:icon": "yellow_diamond_helmet",
+      "minecraft:icon": {
+        "texture": "yellow_diamond_helmet"
+      },
       "minecraft:max_stack_size": 1,
 
       "minecraft:wearable": {

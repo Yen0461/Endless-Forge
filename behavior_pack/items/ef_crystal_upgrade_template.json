@@ -20,6 +20,10 @@
         "- Crystal Shard"
       ],
 
+      "minecraft:smithing_template": {
+        "types": ["crystal_upgrade"]
+      },
+
       "minecraft:tags": {
         "tags": [
           "minecraft:smithing_templates"

@@ -14,7 +14,7 @@
       "minecraft:fire_resistant": false,
 
       "minecraft:enchantable": {
-        "slot": "armor_feet",
+        "slot": "armor_head",
         "value": 12
       },
 

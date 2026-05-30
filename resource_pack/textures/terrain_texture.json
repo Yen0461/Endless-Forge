@@ -3,13 +3,13 @@
   "texture_name": "atlas.terrain",
   "texture_data": {
     "crystal_ore": {
-      "textures": "textures/blocks/crystal_ore"
+      "textures": "textures/blocks/crystal_ore.png"
     },
     "yellow_diamond_ore": {
-      "textures": "textures/blocks/yellow_diamond_ore"
+      "textures": "textures/blocks/yellow_diamond_ore.png"
     },
     "yellow_diamond_ore_deepslate": {
-      "textures": "textures/blocks/yellow_diamond_ore_deepslate"
+      "textures": "textures/blocks/yellow_diamond_ore_deepslate.png"
     }
   }
 }

@@ -9,7 +9,9 @@
       }
     },
     "components": {
-      "minecraft:icon": "yellow_diamond_chestplate",
+      "minecraft:icon": {
+        "texture": "yellow_diamond_chestplate"
+      },
       "minecraft:max_stack_size": 1,
 
       "minecraft:wearable": {
